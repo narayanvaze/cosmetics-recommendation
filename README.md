@@ -20,11 +20,11 @@ cosmetics-recommendation/cosmo-predictor-06
 ├── colorBar.jpeg
 ├── Dockerfile
 ├── .gitignore
-├── image-results ### (three major skin color clusters detected for the input images)
+├── image-results **(three major skin color clusters detected for the input images)**
 │   ├── face-1.jpeg
 │   └── face-4.jpeg
 ├── inputFace.jpeg
-├── input-images ###(input images)
+├── input-images **(input images)**
 │   ├── face-1.jpeg
 │   └── face-4.jpeg
 ├── .mvn
