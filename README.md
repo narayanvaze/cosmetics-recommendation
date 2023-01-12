@@ -57,3 +57,4 @@ cosmetics-recommendation/cosmo-predictor-06
     └── face-4.jpeg
 
 20 directories, 31 files
+```
