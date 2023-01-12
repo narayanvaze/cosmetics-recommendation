@@ -24,7 +24,7 @@ cosmetics-recommendation/cosmo-predictor-06
 │   ├── face-1.jpeg
 │   └── face-4.jpeg
 ├── inputFace.jpeg
-├── input-images **(input images)**
+├── input-images 
 │   ├── face-1.jpeg
 │   └── face-4.jpeg
 ├── .mvn
